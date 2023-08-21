@@ -4,8 +4,10 @@ Create Stable Diffusion Prompts In AGiXT
 Test Results:
 
 August 21, 2023 10:00 PM
+
 AGiXT SD Generator:
 A highly detailed, hyperrealistic close-up photograph of Catwoman's face, featuring intricate details such as individual strands of hair and textures in her costume. The lighting is set to create a dramatic effect with shadows that accentuates the contours of her features, and the image has been post processed using professional color grading techniques for highest quality. This masterpiece captures every detail of Catwoman's face, making it perfect for any fan or collector of DC Comics. The photography is studio lit with a full-body shot that showcases her suit and gadgets, creating an immersive and dynamic pose. The 8K resolution ensures the highest quality image possible, allowing you to see every aspect of this amazing character in great detail. This poster is perfect for any true DC Comics fan or collector looking for a stunning piece of artwork to add to their collection.
+
 August 21, 2023 10:00 PM
 USER:
 A photo realistic close-up of catwoman
