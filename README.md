@@ -3,6 +3,8 @@ Create Stable Diffusion Prompts In AGiXT
 
 Test Results:
 
+
+
 August 21, 2023 10:00 PM
 
 AGiXT SD Generator:
@@ -13,6 +15,7 @@ USER:
 A photo realistic close-up of catwoman
 
 Language Model used: TheBloke_vicuna-13B-v1.5-16K-GGML
+Prompt used: https://github.com/CRCODE22/AGiXT-SD-Generator/blob/main/AGiXT/prompts/Default/AGiXT%20SD%20Generator_V3.txt
 
 Stable Diffusion Paramaters:
 
